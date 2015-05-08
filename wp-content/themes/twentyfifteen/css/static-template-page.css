@@ -1,0 +1,11 @@
+body:before {
+	display: none;
+}
+
+.site-footer {
+	display: none;
+}
+
+p {
+	text-align: center;
+}
