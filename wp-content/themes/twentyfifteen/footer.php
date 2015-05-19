@@ -31,6 +31,8 @@
 <?php wp_footer(); ?>
 
 <script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bower_components/angular/angular.js"></script>
+<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bootstrap.js"></script>
+<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/commonJS.js"></script>
 
 </body>
 </html>

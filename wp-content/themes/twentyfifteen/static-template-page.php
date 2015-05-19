@@ -17,12 +17,15 @@ Template Name: StaticTemplatePage
 
 get_header(); ?>
 
-<link rel="stylesheet" type="text/css" href="
-	<?php echo get_template_directory_uri(); ?>
-	/css/static-template-page.css">
+	<?php
+	// Start the loop.
+	while ( have_posts() ) : the_post();
 
-<p>Fulfilling Website Needs through Creative and Logistical Processes.</p>
+		// Include the page content template.
+		get_template_part( 'content', 'page' );
 
-<p>Full-Stack development specialisms including HTML, Javascript and CSS with a whole host of other technology fun on top.</p>
+	// End the loop.
+	endwhile;
+	?>
 
 <?php get_footer(); ?>
