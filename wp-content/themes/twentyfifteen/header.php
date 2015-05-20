@@ -35,8 +35,8 @@
 				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/bitbucket.png">
 			</div>
 		</div>
-		<img class="logo" ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fm-logo.png">
-		<h1 class="logo-text">Fifth Morrison<br> Web Developer</h1>
+		<img class="logo" ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fm-logo6.png">
+		<h1 class="logo-text">johnMorrison<br><span class="orange">Web Developer</span></h1>
 
 		<?php
 			$defaults = array(
