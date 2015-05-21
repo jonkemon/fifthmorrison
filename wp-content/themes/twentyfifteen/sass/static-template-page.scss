@@ -1,6 +1,7 @@
+@import "compass/css3/transform";
+
 @import 'partials/colors';
 @import 'partials/typography';
-
 
 body { 
 	font-family: 'geomanist_regularregular';
@@ -74,9 +75,45 @@ ul li {
 	color: $orange1;
 }
 
+.rotate90 {
+	@include transform(rotate(90deg));
+	width:56%;
+	margin-left: 22%;
+	margin-top: -18%;
+}
+
+// Portfolio
+
+section.portfolio {
+	display: inline-flex;
+	flex-direction: column;
+	width: 100%;
+
+	a {
+		border: 0;
+
+		img {
+			width: 100%;
+			border: 1px solid $grey1;
+		}
+	}
+}
+
+.desktop-view {
+	a {
+		border: 0;
+	}
+}
+
 @media screen and (min-width: 46.25em) {
 	.logo-text {
 		padding: 0.5em 0.4em 0 0;
+	}
+
+	section.portfolio {
+		a {
+			padding: 1%;
+		}
 	}
 }
 
@@ -87,6 +124,36 @@ ul li {
 
 	header.entry-header {
 		margin:0;
+	}
+
+	section.portfolio {
+		display: inline-flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		
+		a {
+			margin: auto;
+
+			img {
+				width: 100%;
+			}
+		}
+	}
+
+	.mobile-view {
+		&-images {
+			display: inline-flex;
+
+			a {
+				margin: auto;
+				padding: 5%;
+				border: 0;
+
+				img {
+					width: 100%;
+				}
+			}
+		}
 	}
 }
 
