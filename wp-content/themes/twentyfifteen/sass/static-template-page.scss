@@ -37,9 +37,16 @@ ul li {
 
 .menu {
 	clear: both;
-	background: white;
-	display: inline-block;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
 	width: 100%;
+	margin: 0 0 1.6em 0;
+
+	li {
+		background: $white1;
+	}
+
 }
 
 .logo {
@@ -106,6 +113,11 @@ section.portfolio {
 }
 
 @media screen and (min-width: 46.25em) {
+	.menu {
+		display: inline-block;
+		background: $white1;
+	}
+
 	.logo-text {
 		padding: 0.5em 0.4em 0 0;
 	}
@@ -170,6 +182,10 @@ section.portfolio {
 		float: inherit;
 		width: auto;
 		margin: 1.6471em 8.3333% 0 8.3333%;
+	}
+
+	.hentry {
+		padding-top: 3.3333%;
 	}
 }
 
