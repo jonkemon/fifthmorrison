@@ -95,7 +95,7 @@ ul li {
 
 section.portfolio {
 	@include display-flex(inline-flex);
-	flex-direction: column;
+	@include flex-direction(column);
 	width: 100%;
 
 	a {
@@ -111,6 +111,14 @@ section.portfolio {
 .desktop-view {
 	a {
 		border: 0;
+	}
+}
+
+@media screen and (min-width: 23.25em) {
+	.menu {
+		li {
+			padding: 1em;
+		}
 	}
 }
 
