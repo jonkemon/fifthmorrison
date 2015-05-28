@@ -36,7 +36,7 @@
 				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/bitbucket.png">
 			</div>
 		</div>
-		<img class="logo" ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fm-logo6.png">
+		<a href="<?php bloginfo( 'wpurl' ); ?>"><img class="logo" ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fm-logo6.png"></a>
 		<h1 class="logo-text">johnMorrison<br><span class="orange">Web Developer</span></h1>
 
 		<?php
