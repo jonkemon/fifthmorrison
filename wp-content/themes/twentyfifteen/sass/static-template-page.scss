@@ -1,4 +1,5 @@
 @import "compass/css3/transform";
+@import "compass/css3/flexbox";
 
 @import 'partials/colors';
 @import 'partials/typography';
@@ -37,14 +38,15 @@ ul li {
 
 .menu {
 	clear: both;
-	display: flex;
-	align-items: flex-end;
-	justify-content: flex-end;
+	@include display-flex();
+	@include align-items(flex-end);
+	@include justify-content(flex-end);
 	width: 100%;
 	margin: 0 0 1.6em 0;
 
 	li {
 		background: $white1;
+		padding: 0.5em;
 	}
 
 }
@@ -54,11 +56,11 @@ ul li {
 }
 
 .logo-text {
-	font-size: 2.2em;
+	font-size: 1.6em;
 	float: right;
 	text-align: right;
 	line-height: 1.2em;
-	padding: 0.8em 0.4em 0 0;
+	margin: 0.8em 0.4em 0 0;
 }
 
 .social {
@@ -75,7 +77,7 @@ ul li {
 }
 
 .tech-chart {
-	display: inline-flex;
+	@include display-flex(inline-flex);
 }
 
 .entry-title {
@@ -92,7 +94,7 @@ ul li {
 // Portfolio
 
 section.portfolio {
-	display: inline-flex;
+	@include display-flex(inline-flex);
 	flex-direction: column;
 	width: 100%;
 
@@ -139,7 +141,7 @@ section.portfolio {
 	}
 
 	section.portfolio {
-		display: inline-flex;
+		@include display-flex(inline-flex);
 		flex-direction: row;
 		flex-wrap: wrap;
 		
@@ -154,7 +156,7 @@ section.portfolio {
 
 	.mobile-view {
 		&-images {
-			display: inline-flex;
+			@include display-flex(inline-flex);
 
 			a {
 				margin: auto;
