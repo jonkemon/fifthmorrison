@@ -30,13 +30,14 @@
 	<header>
 		<div class="social">
 			<div class="icons">
-				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/twitter.png">
-				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/ello.png">
-				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/github.png">
-				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/bitbucket.png">
+				<a href="https://twitter.com/jlewismorrison" target="_blank"><img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/twitter.png" title="Twitter Natterings" alt="Twitter Natterings"></a>
+				<a href="https://ello.co/johnlewismorrison" target="_blank"><img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/ello.png" title="Ello Portfolio" alt="Ello Portfolio"></a>
+				<a><img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/github.png"></a>
+				<a href="https://www.linkedin.com/pub/john-morrison/1b/175/a21?trk=pub-pbmap" target="_blank"><img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/linkedin.png" title="LinkedIn CV" alt="LinkedIn CV"></a>
+				<img ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/office_profile_64.jpg" class="avatar">
 			</div>
 		</div>
-		<a href="<?php bloginfo( 'wpurl' ); ?>"><img class="logo" ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fm-logo6.png"></a>
+		<a href="<?php bloginfo( 'wpurl' ); ?>"><img class="logo" ng-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fm-logo6.png" title="jlm-logo" alt="jlm-logo"></a>
 		<h1 class="logo-text">johnMorrison<br><span class="orange">Web Developer</span></h1>
 
 		<?php

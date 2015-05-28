@@ -1,6 +1,5 @@
 @import "compass/css3/transform";
 @import "compass/css3/flexbox";
-
 @import 'partials/colors';
 @import 'partials/typography';
 
@@ -48,7 +47,10 @@ ul li {
 		background: $white1;
 		padding: 0.5em;
 	}
+}
 
+.avatar {
+	float:right;
 }
 
 .logo {
@@ -63,17 +65,19 @@ ul li {
 	margin: 0.8em 0.4em 0 0;
 }
 
-.social {
-}
-
 .social .icons {
+	@include display-flex(inline-flex);
 	width: 100%;
 	background: #000000;
-	float: right;
-}
+	
+	img {
+		text-align: center;
+		max-width: 100%;
+	}
 
-.social .icons img {
-	text-align: center;
+	a:last-child {
+		margin-left: auto;
+	}
 }
 
 .tech-chart {
@@ -119,6 +123,9 @@ section.portfolio {
 		li {
 			padding: 1em;
 		}
+	}
+	.logo-text {
+		font-size: 2.2em;
 	}
 }
 
