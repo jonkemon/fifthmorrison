@@ -213,10 +213,6 @@ section.portfolio {
   		margin-top: 2.8%;
   	}
 
-  	.comments-area {
-  		margin-top: 1.6471em;
-  	}
-
   	.sidebar {
 		margin: 0 7.6923%;
 	}
@@ -308,6 +304,10 @@ section.portfolio {
 		margin: 0 0 0 8.333%;
 	}
 
+	.comments-area {
+  		margin: 1.6471em 0 0 8.333%;
+  	}
+
 	.page-template-static-template-home-page, .page-template-static-template-page, .single-post {
 		.site-footer {
 			float: inherit;
@@ -319,6 +319,12 @@ section.portfolio {
 			padding-top: 3.3333%;
 			margin: 0 8.333%;
 		}
+	}
+
+	.site-footer {
+		padding: 0;
+		float: right;
+		width: 64.6%;
 	}
 }
 
