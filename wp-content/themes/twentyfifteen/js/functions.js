@@ -64,6 +64,7 @@
 	}
 
 	function scroll() {
+		/*
 		var windowPos = $window.scrollTop();
 
 		if ( 955 > windowWidth ) {
@@ -100,6 +101,7 @@
 		}
 
 		lastWindowPos = windowPos;
+		*/
 	}
 
 	function resizeAndScroll() {

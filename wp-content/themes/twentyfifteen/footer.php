@@ -22,7 +22,7 @@
 				 */
 				do_action( 'twentyfifteen_credits' );
 			?>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?>"><?php printf('All content copyright FifthMorrison Ltd 2015'); ?></a>
+			<?php printf('All content copyright FifthMorrison Ltd 2015'); ?>
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->
 
