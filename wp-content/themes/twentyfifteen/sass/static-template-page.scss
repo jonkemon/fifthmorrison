@@ -1,5 +1,7 @@
 @import "compass/css3/transform";
+@import "compass/css3/transition";
 @import "compass/css3/flexbox";
+@import "compass/css3/hyphenation";
 @import 'partials/colors';
 @import 'partials/typography';
 
@@ -46,6 +48,16 @@ ul li {
 	li {
 		background: $white1;
 		padding: 0.5em;
+		
+		&:hover {
+			background:rgba(0,0,0,0); 
+			@include transition(all 0.5s ease);
+			transform: scale(1.1);
+		}
+	}
+
+	.current-menu-item a {
+		background-color: $blue3;
 	}
 }
 
@@ -99,19 +111,20 @@ ul li {
 	background: #006699;
 	color: $white1;
 	padding: 0 2em;
+	@include hyphens(none);
 
 	h1 {
-		font-size: 1.8em;
+		font-size: 1.6em;
 		line-height: 1em;
 		padding-top: 0.6em;
 		margin-bottom: 0;
 	}
 
 	h2 {
-		font-size: 1.3em;
+		font-size: 1.295em;
 		padding: 0.8em 0 1.2em 0;
 		color: $blue2;
-		line-height: 1.3em;
+		line-height: 1.29em;
 		margin-top: 0;
 	}
 }
@@ -187,13 +200,13 @@ section.portfolio {
 		padding: 0 8%;
 
 		h1 {
-			font-size: 2.4em;
+			font-size: 1.7em;
 			line-height: 1em;
 			padding-top: 1em;
 		}
 
 		h2 {
-			font-size: 1.6em;
+			font-size: 1.385em;
 			padding: 1em 0 2em 0;
 			color: $blue2;
 		}

@@ -30,9 +30,14 @@
 
 <?php wp_footer(); ?>
 
-<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bower_components/angular/angular.js"></script>
-<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bootstrap.js"></script>
-<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/commonJS.js"></script>
+<!--[if gt IE 8]> <!-- -->
+	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bower_components/angular/angular.js"></script>
+	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bootstrap.js"></script>
+<!-- <![endif]-->
+
+<!--[if lte IE 8]>
+	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/ie8Patch.js"></script>
+<!-- <![endif]-->
 
 </body>
 </html>
