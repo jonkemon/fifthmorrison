@@ -43,7 +43,7 @@
 			return;
 		}
 
-		button.on( 'click.twentyfifteen', function() {
+		button.on( 'click.fifthmorrison', function() {
 			secondary.toggleClass( 'toggled-on' );
 			$( this ).toggleClass( 'toggled-on' );
 		} );

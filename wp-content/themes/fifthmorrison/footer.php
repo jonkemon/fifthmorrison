@@ -5,8 +5,8 @@
  * Contains the closing of the "site-content" div and all content after.
  *
  * @package WordPress
- * @subpackage Twenty_Fifteen
- * @since Twenty Fifteen 1.0
+ * @subpackage Fifth_Morrison
+ * @since Fifth Morrison 1.0
  */
 ?>
 
@@ -16,11 +16,11 @@
 		<div class="site-info">
 			<?php
 				/**
-				 * Fires before the Twenty Fifteen footer text for footer customization.
+				 * Fires before the Fifth Morrison footer text for footer customization.
 				 *
-				 * @since Twenty Fifteen 1.0
+				 * @since Fifth Morrison 1.0
 				 */
-				do_action( 'twentyfifteen_credits' );
+				do_action( 'fifthmorrison_credits' );
 			?>
 			<?php printf('All content copyright FifthMorrison Ltd 2015'); ?>
 		</div><!-- .site-info -->

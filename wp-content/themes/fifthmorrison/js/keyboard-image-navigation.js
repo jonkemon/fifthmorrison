@@ -1,9 +1,9 @@
 /**
- * Twenty Fifteen keyboard support for image navigation.
+ * Fifth Morrison keyboard support for image navigation.
  */
 
 ( function( $ ) {
-	$( document ).on( 'keydown.twentyfifteen', function( e ) {
+	$( document ).on( 'keydown.fifthmorrison', function( e ) {
 		var url = false;
 
 		// Left arrow key code.
