@@ -10,6 +10,7 @@ Package management tools include bower and npm.
 After cloning the repository:
 
 npm install
+
 bower install
 
 Then run grunt to make the build.
