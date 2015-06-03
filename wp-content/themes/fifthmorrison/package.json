@@ -1,0 +1,26 @@
+{
+  "name": "fifthmorrison",
+  "version": "0.0.1",
+  "description": "John Morrison's Development Website",
+  "main": "js/bootstrap.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jonkemon/fifthmorrison.git"
+  },
+  "keywords": [
+    "Website",
+    "Development",
+    "John",
+    "Morrison",
+    "Fifthmorrison"
+  ],
+  "author": "John Lewis Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonkemon/fifthmorrison/issues"
+  },
+  "homepage": "https://github.com/jonkemon/fifthmorrison"
+}
