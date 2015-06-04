@@ -28,8 +28,7 @@ module.exports = function(grunt) {
                 imagesDir: 'images',
                 javascriptsDir: 'js',
                 fontsDir: 'fonts',
-                importPath: 'js/bower_components',
-                outputStyle: 'compressed'
+                importPath: 'js/bower_components'
             },
             dist: {},
         },

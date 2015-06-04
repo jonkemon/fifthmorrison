@@ -33,6 +33,10 @@ ul li {
 	}
 }
 
+.orange {
+	color: $orange1;
+}
+
 .menu {
 	clear: both;
 	@include display-flex();
@@ -123,10 +127,6 @@ ul li {
 		line-height: 1.29em;
 		margin-top: 0;
 	}
-}
-
-.orange {
-	color: $orange1;
 }
 
 // PORTFOLIO SECTION
