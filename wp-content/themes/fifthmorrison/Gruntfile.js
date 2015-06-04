@@ -10,6 +10,17 @@ module.exports = function(grunt) {
                     }
                 }
         },
+        uglify: {
+            dist: {
+                files: {
+                    'dest/js/dependencies.js': [
+                        'js/bower_components/angular/angular.js',
+                        'js/bootstrap.js',
+                        'js/skip-link-focus-fix.js',
+                    ]
+                }
+            }
+        },
         compass: {
             options: {
                 sassDir: 'sass',
@@ -23,10 +34,11 @@ module.exports = function(grunt) {
             dist: {},
         },
         watch: {
-            files: ['<%= jshint.files %>'],
-            tasks: ['jshint']
+            files: ['sass/*', 'js/*'],
+            tasks: ['jshint', 'uglify', 'compass']
         }
     });
 
-    grunt.registerTask('default', ['jshint', 'compass']);
+    grunt.registerTask('build', ['jshint', 'uglify' ,'compass']);
+    grunt.registerTask('default', ['build']);
 };

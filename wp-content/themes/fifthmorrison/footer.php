@@ -31,8 +31,7 @@
 <?php wp_footer(); ?>
 
 <!--[if gt IE 8]> <!-- -->
-	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bower_components/angular/angular.js"></script>
-	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/bootstrap.js"></script>
+	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/dependencies.js"></script>
 <!-- <![endif]-->
 
 <!--[if lte IE 8]>
