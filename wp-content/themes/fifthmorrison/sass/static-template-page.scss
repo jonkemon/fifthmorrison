@@ -33,10 +33,6 @@ ul li {
 	}
 }
 
-.orange {
-	color: $orange1;
-}
-
 .menu {
 	clear: both;
 	@include display-flex();
@@ -129,7 +125,11 @@ ul li {
 	}
 }
 
-// portfolio
+.orange {
+	color: $orange1;
+}
+
+// PORTFOLIO SECTION
 
 section.portfolio {
 	@include display-flex(inline-flex);
@@ -153,7 +153,7 @@ section.portfolio {
 	}
 }
 
-// blog
+// BLOG SECTION
 
 .comments-title {
 	color: $blue1;
@@ -184,6 +184,8 @@ section.portfolio {
 .hentry {
 	position: inherit;
 }
+
+// MEDIA QUERIES
 
 @media screen and (min-width: 23.25em) {
 	.menu {
