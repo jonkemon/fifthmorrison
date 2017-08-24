@@ -22,7 +22,7 @@
 				 */
 				do_action( 'fifthmorrison_credits' );
 			?>
-			<?php printf('All content copyright FifthMorrison Ltd 2015'); ?>
+			<?php printf('All content copyright FifthMorrison Ltd '); echo date("Y") ?>
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->
 
@@ -31,7 +31,7 @@
 <?php wp_footer(); ?>
 
 <!--[if gt IE 8]> <!-- -->
-	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/dependencies.js"></script>
+	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/dest/js/dependencies.js"></script>
 <!-- <![endif]-->
 
 <!--[if lte IE 8]>
