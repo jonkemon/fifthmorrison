@@ -1,0 +1,18 @@
+Like many UK grown developers, after getting my eager little hands on a ZX Spectrum as a boy, I have been coding with many of the different technologies we have enjoyed over the years. After these early app and game attempts as a chil, I soon started to implement more serious JavaScript within the audio technology domain through my studies. This in turn lead me to development of websites within a professional context and the journey continues to roll on with the same childish enthusiam.
+
+Front-End Technologies:
+
+These days it's full-stack development with a 70/30 slat to front-end with specialsm including:
+
+(HTML 5 badge)
+(CSS 3 badge)
+(JS badge)
+(Response Web Design Badge)
+
+Back-End Technologies: 
+
+(Grunt badge)
+(Express badge)
+(Node badge)
+(Sass badge)
+(PHP badge)

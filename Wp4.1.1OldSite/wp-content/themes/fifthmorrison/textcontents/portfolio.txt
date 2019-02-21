@@ -1,0 +1,49 @@
+<section class="portfolio">
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileQmetric-1.png"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileQmetric-1-169x300.png" alt="portfolioShotDesktop4MobileQmetric-1" width="169" height="300" class="alignnone size-medium wp-image-34" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileQmetric-3.png"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileQmetric-3-169x300.png" alt="portfolioShotMobileQmetric-3" width="169" height="300" class="alignnone size-medium wp-image-35" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileQmetric-2.png"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileQmetric-2-169x300.png" alt="portfolioShotMobileQmetric-2" width="169" height="300" class="alignnone size-medium wp-image-36" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileQmetric-1.png"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileQmetric-1-169x300.png" alt="portfolioShotMobileQmetric-1" width="169" height="300" class="alignnone size-medium wp-image-37" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShots.png"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShots-300x202.png" alt="portfolioShots" width="300" height="202" class="alignnone size-medium wp-image-38" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobilePFX-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobilePFX-1-169x300.jpg" alt="portfolioShotDesktop4MobilePFX-1" width="169" height="300" class="alignnone size-medium wp-image-39" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-1-169x300.jpg" alt="portfolioShotTablet4MobilePFX-1" width="169" height="300" class="alignnone size-medium wp-image-40" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-2.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-2-169x300.jpg" alt="portfolioShotTablet4MobilePFX-2" width="169" height="300" class="alignnone size-medium wp-image-41" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-3.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-3-169x300.jpg" alt="portfolioShotTablet4MobilePFX-3" width="169" height="300" class="alignnone size-medium wp-image-42" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-4.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobilePFX-4-169x300.jpg" alt="portfolioShotTablet4MobilePFX-4" width="169" height="300" class="alignnone size-medium wp-image-43" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileF1-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileF1-1-169x300.jpg" alt="portfolioShotDesktop4MobileF1-1" width="169" height="300" class="alignnone size-medium wp-image-44" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileF1-4.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileF1-4-169x300.jpg" alt="portfolioShotDesktop4MobileF1-4" width="169" height="300" class="alignnone size-medium wp-image-45" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileF1-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileF1-1-169x300.jpg" alt="portfolioShotMobileF1-1" width="169" height="300" class="alignnone size-medium wp-image-46" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobileF1-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotTablet4MobileF1-1-169x300.jpg" alt="portfolioShotTablet4MobileF1-1" width="169" height="300" class="alignnone size-medium wp-image-47" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileDelMonte-1.png"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileDelMonte-1-169x300.png" alt="portfolioShotDesktop4MobileDelMonte-1" width="169" height="300" class="alignnone size-medium wp-image-48" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileDelMonte-3.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileDelMonte-3-169x300.jpg" alt="portfolioShotDesktop4MobileDelMonte-3" width="169" height="300" class="alignnone size-medium wp-image-49" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileCNN-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileCNN-1-169x300.jpg" alt="portfolioShotDesktop4MobileCNN-1" width="169" height="300" class="alignnone size-medium wp-image-50" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCNN-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCNN-1-169x300.jpg" alt="portfolioShotMobileCNN-1" width="169" height="300" class="alignnone size-medium wp-image-51" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCNN-2.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCNN-2-169x300.jpg" alt="portfolioShotMobileCNN-2" width="169" height="300" class="alignnone size-medium wp-image-52" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCNN-3.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCNN-3-169x300.jpg" alt="portfolioShotMobileCNN-3" width="169" height="300" class="alignnone size-medium wp-image-53" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileCase-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotDesktop4MobileCase-1-169x300.jpg" alt="portfolioShotDesktop4MobileCase-1" width="169" height="300" class="alignnone size-medium wp-image-54" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCase-1.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCase-1-169x300.jpg" alt="portfolioShotMobileCase-1" width="169" height="300" class="alignnone size-medium wp-image-55" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCase-2.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCase-2-169x300.jpg" alt="portfolioShotMobileCase-2" width="169" height="300" class="alignnone size-medium wp-image-56" /></a>
+
+<a href="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCase-3.jpg"><img src="http://localhost/fifthmorrison/wp-content/uploads/2017/08/portfolioShotMobileCase-3-169x300.jpg" alt="portfolioShotMobileCase-3" width="169" height="300" class="alignnone size-medium wp-image-57" /></a></section>
